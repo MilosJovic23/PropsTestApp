@@ -1,9 +1,10 @@
+import Payment from "./Components/Payment";
 
 
 const App= ()=>{
 
   return(
-      <Paymant/>
+      <Payment/>
   )
 }
 
