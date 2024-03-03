@@ -3,7 +3,12 @@ import PayPal from "./PayPal";
 
 const Payment = ()=>{
 
-    return(<PayPal/>)
+    return(
+        <>
+            <PayPal/>
+        </>
+
+    )
 }
 
 export default Payment;
